@@ -243,6 +243,16 @@ namespace emiliano100.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap userPic {
+            get {
+                object obj = ResourceManager.GetObject("userPic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap usuario_logo_3 {
             get {
                 object obj = ResourceManager.GetObject("usuario logo 3", resourceCulture);

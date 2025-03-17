@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using emiliano100.View;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,9 +31,29 @@ namespace emiliano100
             btnMax.PerformClick();
         }
 
+
+
+        public void AddControl(Form F)
+        {
+            this.CenterPanel.Controls.Clear();
+            F.Dock = DockStyle.Fill;
+            F.TopLevel = false;
+            CenterPanel.Controls.Add(F);
+            F.Show();
+        }
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void guna2Button7_Click(object sender, EventArgs e)
+        {          
+            AddControl(new frmUserView());
+        }
+
+        private void guna2Panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

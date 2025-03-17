@@ -117,68 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="fotos productos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fotos productos;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logo usuario 4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo usuario 4;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="clientes" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\clientes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ventas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ventas;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto papi 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto papi 3.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logoo 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logoo 2;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="naruto 21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\naruto 21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="casa logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\casa logo2;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto papi" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto papi.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto categoria1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto categoria1;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto papi 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto papi 2.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bolsa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bolsa;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="naruto 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\naruto 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logoo 21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logoo 21;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="usuario logo 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\usuario logo 3;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Naruto_logo.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Naruto_logo.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto categoria 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto categoria 2;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="foto categoria" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\foto categoria;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logo mora" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo mora;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Naruto_logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Naruto_logo.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="userPic" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\userPic.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="guna2MessageDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>
