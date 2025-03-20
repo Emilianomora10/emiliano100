@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Guna.UI2.WinForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,7 @@ namespace emiliano100
         public Form2()
         {
             InitializeComponent();
+            
         }
 
         private void Form2_Load(object sender, EventArgs e)

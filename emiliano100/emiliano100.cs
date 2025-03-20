@@ -55,5 +55,10 @@ namespace emiliano100
         {
 
         }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            AddControl(new frmCategoryView());
+        }
     }
 }

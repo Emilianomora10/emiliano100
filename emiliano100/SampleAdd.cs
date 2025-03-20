@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Guna.UI2.WinForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,7 @@ namespace emiliano100
         public SampleAdd()
         {
             InitializeComponent();
+            
         }
 
         private void btnClose_Click(object sender, EventArgs e)
