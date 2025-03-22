@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -73,6 +73,18 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCustomAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomAdd.Designer.cs">
+      <DependentUpon>frmCustomAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierAdd.Designer.cs">
+      <DependentUpon>frmSupplierAdd.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainClass.cs" />
     <Compile Include="model\frmCategoryAdd.cs">
       <SubType>Form</SubType>
@@ -103,6 +115,18 @@
     <Compile Include="View\frmCategoryView.Designer.cs">
       <DependentUpon>frmCategoryView.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\frmCustomerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCustomerView.Designer.cs">
+      <DependentUpon>frmCustomerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmSupplierView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmSupplierView.Designer.cs">
+      <DependentUpon>frmSupplierView.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\frmUserView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +141,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomAdd.resx">
+      <DependentUpon>frmCustomAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierAdd.resx">
+      <DependentUpon>frmSupplierAdd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="model\frmCategoryAdd.resx">
       <DependentUpon>frmCategoryAdd.cs</DependentUpon>
@@ -142,6 +172,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\frmCategoryView.resx">
       <DependentUpon>frmCategoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCustomerView.resx">
+      <DependentUpon>frmCustomerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmSupplierView.resx">
+      <DependentUpon>frmSupplierView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\frmUserView.resx">
       <DependentUpon>frmUserView.cs</DependentUpon>
