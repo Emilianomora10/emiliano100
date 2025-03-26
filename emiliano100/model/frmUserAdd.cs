@@ -122,5 +122,10 @@ namespace emiliano100.model
         {
             this.Close();
         }
+
+        private void frmUserAdd_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

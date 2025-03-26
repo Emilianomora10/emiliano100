@@ -76,7 +76,7 @@
             // txtSearch
             // 
             this.txtSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtSearch.BorderRadius = 29;
+            this.txtSearch.BorderRadius = 2;
             this.txtSearch.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txtSearch.DefaultText = "";
             this.txtSearch.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
@@ -97,7 +97,7 @@
             // 
             // guna2Button1
             // 
-            this.guna2Button1.BorderRadius = 29;
+            this.guna2Button1.BorderRadius = 2;
             this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -169,13 +169,13 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
             this.guna2DataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.guna2DataGridView1.Location = new System.Drawing.Point(154, 175);
+            this.guna2DataGridView1.Location = new System.Drawing.Point(81, 184);
             this.guna2DataGridView1.Name = "guna2DataGridView1";
             this.guna2DataGridView1.ReadOnly = true;
             this.guna2DataGridView1.RowHeadersVisible = false;
             this.guna2DataGridView1.RowHeadersWidth = 62;
             this.guna2DataGridView1.RowTemplate.Height = 28;
-            this.guna2DataGridView1.Size = new System.Drawing.Size(1033, 428);
+            this.guna2DataGridView1.Size = new System.Drawing.Size(1124, 536);
             this.guna2DataGridView1.TabIndex = 3;
             this.guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -242,34 +242,34 @@
             // dgvemail
             // 
             this.dgvemail.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
-            this.dgvemail.FillWeight = 67.85715F;
+            this.dgvemail.FillWeight = 299F;
             this.dgvemail.HeaderText = "Email";
-            this.dgvemail.MinimumWidth = 8;
+            this.dgvemail.MinimumWidth = 299;
             this.dgvemail.Name = "dgvemail";
             this.dgvemail.ReadOnly = true;
-            this.dgvemail.Width = 248;
+            this.dgvemail.Width = 299;
             // 
             // dgvEdit
             // 
             this.dgvEdit.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
-            this.dgvEdit.FillWeight = 50F;
+            this.dgvEdit.FillWeight = 70F;
             this.dgvEdit.HeaderText = "";
             this.dgvEdit.Image = ((System.Drawing.Image)(resources.GetObject("dgvEdit.Image")));
-            this.dgvEdit.MinimumWidth = 50;
+            this.dgvEdit.MinimumWidth = 70;
             this.dgvEdit.Name = "dgvEdit";
             this.dgvEdit.ReadOnly = true;
-            this.dgvEdit.Width = 50;
+            this.dgvEdit.Width = 70;
             // 
             // dgvDel
             // 
             this.dgvDel.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
-            this.dgvDel.FillWeight = 50F;
+            this.dgvDel.FillWeight = 70F;
             this.dgvDel.HeaderText = "";
             this.dgvDel.Image = ((System.Drawing.Image)(resources.GetObject("dgvDel.Image")));
-            this.dgvDel.MinimumWidth = 50;
+            this.dgvDel.MinimumWidth = 70;
             this.dgvDel.Name = "dgvDel";
             this.dgvDel.ReadOnly = true;
-            this.dgvDel.Width = 50;
+            this.dgvDel.Width = 70;
             // 
             // frmCustomerView
             // 
